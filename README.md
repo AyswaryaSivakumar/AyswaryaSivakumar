@@ -6,9 +6,9 @@ Web Developer
 
 I am a Web Developer.
 
-* 🌍  I'm based in Trivandrum
+* 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [ayswaryasivakumar26@gmail.com](mailto:ayswaryasivakumar26@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning Full stack Web Development
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
